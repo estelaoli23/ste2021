@@ -2,8 +2,7 @@
 
 #### Dev in development process
 
-#### Currently interning without [PECEGE](https://pecege.com/) Development Time  <img src="https://github.com/ste2021/backcasecrescere/blob/master/foguete2.png" width=20 height=20/>
-
+#### Currently interning without [PECEGE](https://pecege.com/) Development Time  <a target="_blank" href="https://icons8.com.br/icons/set/jetpack">Jetpack icon</a> ícone por <a target="_blank" href="https://icons8.com.br">Icons8</a>
 | [Estela](https://github.com/ste2021) | Facebook: [Estela](https://www.facebook.com/estela.oliveira.9843499) <img src="https://github.com/ste2021/backcasecrescere/blob/master/iconfinder_1_Facebook_colored_svg_copy_5296499.png" width=20 height=20/>  	|  Likedin: [Estela Oliveira](https://www.linkedin.com/in/estela-oliveira-989628104/) <img src="https://github.com/ste2021/backcasecrescere/blob/master/iconfinder_social_media_social_media_logo_likedin_2993765.png" width=20 height=20/> |Insta: [@ste2021](https://www.instagram.com/ste2021/) <img src="https://github.com/ste2021/backcasecrescere/blob/master/iconfinder_1_Instagram_colored_svg_1_5296765.png"  width=20 height=20/>|
 |---	|---	|---	|---	|
 
