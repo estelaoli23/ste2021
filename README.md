@@ -1,6 +1,5 @@
 ### Hello World 🖖
 
-![Test](https://github.com/actions/hello-world/workflows/.github/workflows/main.yml/badge.svg)
 
 **Dev in _development_ process**  <img src="https://github.com/ste2021/backcasecrescere/blob/master/icons8-jetpack-50.png" width=35 height=40 />
 
