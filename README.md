@@ -10,7 +10,7 @@
 
 
 
-<img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+<img src="/github/followers/:user?label=Follow"/>
 
 <!--
 **ste2021/ste2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
