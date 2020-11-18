@@ -7,8 +7,8 @@
 
 
 ### Learning Technologies
-- [x] [Typescript](https://www.typescriptlang.org/docs)    <img src="https://github.com/ste2021/images-icons/blob/master/typescript.png" width=18 height=18 />
-- [x] [Angular](https://angular.io/docs)     <img src="https://github.com/ste2021/images-icons/blob/master/iconfinder_angular-js_3069652.png" width=18 height=18 />
+- [x] [Typescript](https://www.typescriptlang.org/docs)    <img src="https://github.com/ste2021/images-icons/blob/master/typescript.png" width=16 height=16 />
+- [x] [Angular](https://angular.io/docs)     <img src="https://github.com/ste2021/images-icons/blob/master/iconfinder_angular-js_3069652.png" width=16 height=16 />
 
 
 
