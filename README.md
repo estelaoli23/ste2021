@@ -6,7 +6,7 @@
 ### Currently interning in <a href="https://pecege.com/" target="blank"> PECEGE</a> Development Time      <img src="https://github.com/ste2021/backcasecrescere/blob/master/icons8-lan%C3%A7ar-foguete-64.png" width=35 height=40 />
 
 
-### Learning Technologies <img src = "https://github.com/ste2021/images-icons/blob/master/computer.svg" width=25 height=30 />
+### Learning Technologies   <img src = "https://github.com/ste2021/images-icons/blob/master/programmer.svg" width=25 height=30 />
 - [x] [Typescript](https://www.typescriptlang.org/docs)    <img src="https://github.com/ste2021/images-icons/blob/master/typescript.png" width=16 height=16 />
 - [x] [Angular](https://angular.io/docs)     <img src="https://github.com/ste2021/images-icons/blob/master/iconfinder_angular-js_3069652.png" width=16 height=16 />
 
