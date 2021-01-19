@@ -1,7 +1,7 @@
 ### Hello World 🖖
+---
 
-
-**Dev Frontend in _development_ process**   <img src="https://github.com/ste2021/images-icons/blob/master/ui.png" width=35 height=40 />
+**Dev Frontend in _development_ process_**   <img src="https://github.com/ste2021/images-icons/blob/master/ui.png" width=35 height=40 />
 
 ### Currently interning in  <a href="https://pecege.com/" target="blank"> PECEGE</a> Development Team     <img src="https://github.com/ste2021/backcasecrescere/blob/master/icons8-lan%C3%A7ar-foguete-64.png" width=35 height=40 />
 
