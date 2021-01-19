@@ -6,10 +6,10 @@
 
 ### <img src="https://github.com/ste2021/images-icons/blob/master/pensamentos.png" width=25 height=25 /> _ Ask Me about :
 
-- [x] [Javascript](https://www.w3schools.com/js/default.asp) <img src = "https://github.com/ste2021/images-icons/blob/master/icons8-javascript-48.png" width=25 height=30 />
-- [x] [HTML](https://www.w3schools.com/html/) <img src = "https://github.com/ste2021/images-icons/blob/master/icons8-html-5-48.png" width=16 height=16 />
-- [x] [CSS](https://www.w3schools.com/css/default.asp) <img src = "https://github.com/ste2021/images-icons/blob/master/icons8-css3-48.png" width=16 height=16 />
-- [x] [Bootstrap](https://getbootstrap.com/) <img src = "https://github.com/ste2021/images-icons/blob/master/icons8-bootstrap-48.png" width=16 height=16 />
+- [x] [HTML](https://www.w3schools.com/html/) <img src = "https://github.com/ste2021/images-icons/blob/master/icons8-html-5-48.png" width=17 height=17 />
+- [x] [CSS](https://www.w3schools.com/css/default.asp) <img src = "https://github.com/ste2021/images-icons/blob/master/icons8-css3-48.png" width=17 height=17 />
+- [x] [Bootstrap](https://getbootstrap.com/) <img src = "https://github.com/ste2021/images-icons/blob/master/icons8-bootstrap-48.png" width=17 height=17 />
+- [x] [Javascript](https://www.w3schools.com/js/default.asp) <img src = "https://github.com/ste2021/images-icons/blob/master/icons8-javascript-48.png" width=18 height=18 />
 
 ### Learning Technologies   <img src = "https://github.com/ste2021/images-icons/blob/master/programmer.svg" width=25 height=30 />
 - [x] [Typescript](https://www.typescriptlang.org/docs)    <img src="https://github.com/ste2021/images-icons/blob/master/typescript.png" width=16 height=16 />
