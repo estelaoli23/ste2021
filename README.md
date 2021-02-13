@@ -1,10 +1,10 @@
 ### Hello World 🖖
 ---
-**Dev Frontend in _development_ process_**   <img src="https://github.com/ste2021/images-icons/blob/master/ui.png" width=35 height=40 />
+**Dev Frontend in _development_ process_**   <img src="https://github.com/ste2021/images-icons/blob/master/estudando.svg" width=35 height=40 />
 
 ### Currently interning in  <a href="https://pecege.com/" target="blank"> PECEGE</a> Development Team     <img src="https://github.com/ste2021/backcasecrescere/blob/master/icons8-lan%C3%A7ar-foguete-64.png" width=35 height=40 />
 
-### <img src="https://github.com/ste2021/images-icons/blob/master/icons8-question-mark-48.png" width=25 height=25 /> Ask Me about :
+### <img src="https://github.com/ste2021/images-icons/blob/master/ask%20me.svg" width=25 height=25 /> Ask Me about :
 
 - [x] [HTML](https://www.w3schools.com/html/) <img src = "https://github.com/ste2021/images-icons/blob/master/icons8-html-5-48.png" width=17 height=17 />
 - [x] [CSS](https://www.w3schools.com/css/default.asp) <img src = "https://github.com/ste2021/images-icons/blob/master/icons8-css3-48.png" width=17 height=17 />
