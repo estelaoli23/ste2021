@@ -14,7 +14,7 @@
 ### Working with Technologies   <img src = "https://github.com/ste2021/images-icons/blob/master/programmer.svg" width=25 height=30 />
 - [x] [Javascript](https://www.w3schools.com/js/default.asp) <img src = "https://github.com/ste2021/images-icons/blob/master/icons8-javascript-48.png" width=18 />
 - [x] [Typescript](https://www.typescriptlang.org/docs)    <img src="https://github.com/ste2021/images-icons/blob/master/typescript.png" width=16 height=16 />
-- [x] [Angular](https://angular.io/docs)     <img src="https://github.com/ste2021/images-icons/blob/master/iconfinder_angular-js_3069652.png" width=16 height=16 />
+- [x] [Angular CLI](https://angular.io/docs)     <img src="https://github.com/ste2021/images-icons/blob/master/iconfinder_angular-js_3069652.png" width=16 height=16 />
 - [x] [React](https://reactjs.org/)  <img src="https://github.com/ste2021/images-icons/blob/master/atom.png" width=16 height=16 />
 - [x] [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min) <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width=16 height=16 />
 
