@@ -18,8 +18,8 @@
 - [x] [React](https://reactjs.org/)  <img src="https://github.com/ste2021/images-icons/blob/master/atom.png" width=16 height=16 />
 - [x] [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min) <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width=16 height=16 />
 ### Studying Technologies
-- [x][JAVA]()
-- [x][SpringBoot]()
+- [x] [JAVA]()
+- [x] [SpringBoot]()
 - 
 
 ## You can find me here: 
