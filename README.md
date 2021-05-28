@@ -17,6 +17,10 @@
 - [x] [Angular CLI](https://angular.io/docs)     <img src="https://github.com/ste2021/images-icons/blob/master/iconfinder_angular-js_3069652.png" width=16 height=16 />
 - [x] [React](https://reactjs.org/)  <img src="https://github.com/ste2021/images-icons/blob/master/atom.png" width=16 height=16 />
 - [x] [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min) <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width=16 height=16 />
+### Studying Technologies
+- [x][JAVA]()
+- [x][SpringBoot]()
+- 
 
 ## You can find me here: 
 | Facebook: [Estela](https://www.facebook.com/estelinha.oliveira2021/) <img src="https://github.com/ste2021/backcasecrescere/blob/master/iconfinder_1_Facebook_colored_svg_copy_5296499.png" width=20 height=20/>  	|  Likedin: [Estela Oliveira](https://www.linkedin.com/in/estela-oliveira-989628104/) <img src="https://github.com/ste2021/backcasecrescere/blob/master/iconfinder_social_media_social_media_logo_likedin_2993765.png" width=20 height=20/> |Insta: [@ste2021](https://www.instagram.com/ste2021/) <img src="https://github.com/ste2021/backcasecrescere/blob/master/iconfinder_1_Instagram_colored_svg_1_5296765.png"  width=20 height=20/>| Perfil [Codepen](https://codepen.io/ste2021/pens/public) <img src="https://github.com/ste2021/images-icons/blob/master/codepen.svg" width=20 height=20/>|
