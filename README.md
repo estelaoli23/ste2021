@@ -22,6 +22,7 @@
 ### Studying Technologies
 - [x] [JAVA](https://www.java.com/pt-BR/download/help/java8_pt-br.html)
 - [x] [SpringBoot](https://spring.io/)
+- [x] [Python](https://www.python.org/)
  
 
 ## You can find me here: 
