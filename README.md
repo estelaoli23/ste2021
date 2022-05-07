@@ -1,4 +1,6 @@
-### Hello World 🖖
+### Hi Everyone! 🖖
+---
+I'm a hunger for knowledge
 ---
 ### Currently interning in  <a href="https://www.itau.com.br/" target="blank"> Itau Unibanco</a> Data Science Team     <img src="https://github.com/ste2021/backcasecrescere/blob/master/icons8-lan%C3%A7ar-foguete-64.png" width=35 height=40 href="http://github.com/ste2021" />
 
