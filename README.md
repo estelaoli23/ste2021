@@ -2,10 +2,10 @@
 ---
 I'm a hunger for knowledge
 ---
-### Currently interning in  <a href="https://www.itau.com.br/" target="blank"> Itau Unibanco</a> with Data Analysis     <img src="https://github.com/ste2021/backcasecrescere/blob/master/icons8-lan%C3%A7ar-foguete-64.png" width=35 height=40 href="http://github.com/ste2021" />
+### Currently interning in  <a href="https://www.itau.com.br/" target="blank"> Itau Unibanco</a> with Automation Engineering     <img src="https://github.com/ste2021/backcasecrescere/blob/master/icons8-lan%C3%A7ar-foguete-64.png" width=35 height=40 href="http://github.com/ste2021" />
 
 ### Working with Technologies   <img src = "https://github.com/ste2021/images-icons/blob/master/programmer.svg" width=25 height=30 />
-- [x] [Hadoop](https://hadoop.apache.org/)
+- [x] [AWS](https://aws.amazon.com/pt/)
 - [x] [SQL](https://www.w3schools.com/sql/)
 - [x] [Python](https://www.python.org/)
 
@@ -23,6 +23,8 @@ I'm a hunger for knowledge
 
 ### Studying Technologies
 - [x] [Python](https://www.python.org/)
+- [x] [AWS](https://aws.amazon.com/pt/)
+- [x] [Linux](https://www.linux.org/pages/download/)
 
 ## You can find me here: 
 | Facebook: [Estela](https://www.facebook.com/estelinha.oliveira2021/) <img src="https://github.com/ste2021/backcasecrescere/blob/master/iconfinder_1_Facebook_colored_svg_copy_5296499.png" width=20 height=20/>  	|  Likedin: [Estela Oliveira](https://www.linkedin.com/in/estela-oliveira-989628104) <img src="https://github.com/ste2021/backcasecrescere/blob/master/iconfinder_social_media_social_media_logo_likedin_2993765.png" width=20 height=20/> |Insta: [@estelinha_oliveiraa](https://www.instagram.com/estelinha_oliveiraa/) <img src="https://github.com/ste2021/backcasecrescere/blob/master/iconfinder_1_Instagram_colored_svg_1_5296765.png"  width=20 height=20/>| Perfil [Codepen](https://codepen.io/ste2021/pens/public) <img src="https://github.com/ste2021/images-icons/blob/master/codepen.svg" width=20 height=20/>|
