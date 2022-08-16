@@ -4,8 +4,9 @@
 
 ### Working with Technologies   <img src = "https://github.com/ste2021/images-icons/blob/master/programmer.svg" width=25 height=30 />
 - [x] [AWS](https://aws.amazon.com/pt/)
-- [x] [SQL](https://www.w3schools.com/sql/)
+- [x] [MySQL](https://www.w3schools.com/sql/)
 - [x] [Python](https://www.python.org/)
+- [x] [Pandas](https://pandas.pydata.org/)
 
 ### <img src="https://github.com/ste2021/images-icons/blob/master/ask%20me.svg" width=25 height=25 /> Ask Me about :
 
