@@ -1,6 +1,6 @@
 ### Hi Everyone! 🖖
 ---
-### Currently intern in  <a href="https://www.itau.com.br/" target="blank"> Itau Unibanco</a> with Automation Engineering     <img src="https://github.com/ste2021/backcasecrescere/blob/master/icons8-lan%C3%A7ar-foguete-64.png" width=35 height=40 href="http://github.com/ste2021" />
+### Currently intern in  <a href="https://www.itau.com.br/" target="blank"> Itau Unibanco</a>  working with Data Engineering     <img src="https://github.com/ste2021/backcasecrescere/blob/master/icons8-lan%C3%A7ar-foguete-64.png" width=35 height=40 href="http://github.com/ste2021" />
 
 ### Working with Technologies   <img src = "https://github.com/ste2021/images-icons/blob/master/programmer.svg" width=25 height=30 />
 - [x] [AWS](https://aws.amazon.com/pt/)
