@@ -24,6 +24,7 @@
 
 - [x] [AWS](https://aws.amazon.com/pt/)
 - [x] [Linux](https://www.linux.org/pages/download/)
+- [x] [Pandas](https://pandas.pydata.org/)  <img src = "https://github.com/ste2021/images-icons/blob/master/panda.png" width=17 height=17 />
 
 ## You can find me here: 
 | Facebook: [Estela](https://www.facebook.com/estelinha.oliveira2021/) <img src="https://github.com/ste2021/backcasecrescere/blob/master/iconfinder_1_Facebook_colored_svg_copy_5296499.png" width=20 height=20/>  	|  Likedin: [Estela Oliveira](https://www.linkedin.com/in/estela-oliveira-989628104) <img src="https://github.com/ste2021/backcasecrescere/blob/master/iconfinder_social_media_social_media_logo_likedin_2993765.png" width=20 height=20/> |Insta: [@estelinha_oliveiraa](https://www.instagram.com/estelinha_oliveiraa/) <img src="https://github.com/ste2021/backcasecrescere/blob/master/iconfinder_1_Instagram_colored_svg_1_5296765.png"  width=20 height=20/>| Perfil [Codepen](https://codepen.io/ste2021/pens/public) <img src="https://github.com/ste2021/images-icons/blob/master/codepen.svg" width=20 height=20/>|
