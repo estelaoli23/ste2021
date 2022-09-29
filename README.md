@@ -23,7 +23,7 @@
 ### Studying Technologies
 
 - [x] [AWS](https://aws.amazon.com/pt/)
-- [x] [Linux](https://www.linux.org/pages/download/)
+- [x] [Django](https://www.djangoproject.com/)
 - [x] [Pandas](https://pandas.pydata.org/)  <img src = "https://github.com/ste2021/images-icons/blob/master/panda.png" width=17 height=17 />
 
 ## You can find me here: 
