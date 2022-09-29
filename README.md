@@ -2,7 +2,7 @@
 ---
 ### Currently working in  <a href="https://www.itau.com.br/" target="blank"> Itau Unibanco</a>     <img src="https://github.com/ste2021/backcasecrescere/blob/master/icons8-lan%C3%A7ar-foguete-64.png" width=35 height=40 href="http://github.com/ste2021" />
 
-### Working with Technologies   <img src = "https://github.com/ste2021/images-icons/blob/master/programmer.svg" width=25 height=30 />
+### Working with: <img src = "https://github.com/ste2021/images-icons/blob/master/programmer.svg" width=25 height=30 />
 - [x] [AWS](https://aws.amazon.com/pt/)  <img src = "https://github.com/ste2021/images-icons/blob/master/pasta-cloud.png" width=17 height=17 />
 - [x] [MySQL](https://www.w3schools.com/sql/)  <img src = "https://github.com/ste2021/images-icons/blob/master/mysql.png" width=17 height=17 />
 - [x] [Python](https://www.python.org/)  <img src = "https://github.com/ste2021/images-icons/blob/master/pitao.png" width=17 height=17 />
